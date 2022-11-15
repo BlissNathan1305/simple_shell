@@ -1,6 +1,6 @@
  C - BUILD YOUR OWN SHELL
 ## Introduction: :ledger:
-* One of the core tenets of the ALX SE program is the belef in ding hard things and now, they have presented us with another hard thing
+* One of the core tenets of the ALX SE program is the belief in doing hard things and now, they have presented us with another hard thing.
 * The mission of this current task is to build a shell that will work as good as any bash shell or even better
 * As usual, there are restraints and constraints on the number and type of functions we're allowed to use but the fact that we're working in teams of two means that we have more info and resources to use
 
